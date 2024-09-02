@@ -1,0 +1,4 @@
+json.stringify()
+jdon.parse()
+localStorage.setItem()
+localStorage.getItem()
